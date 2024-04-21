@@ -1,0 +1,6 @@
+- id: echo_hello
+  name: echo_hello
+  description: echos hello
+  entry: my_module
+  language: python
+  stages: [commit, push, manual]
