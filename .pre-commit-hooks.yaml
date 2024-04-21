@@ -1,0 +1,7 @@
+- id: echo_hello
+  name: echos hello
+  description: This hook echos hello.
+  entry: my_module
+  language: python
+  types: [text]
+  verbose: true
